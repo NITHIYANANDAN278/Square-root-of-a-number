@@ -33,7 +33,7 @@ print(f"Square root of the number: {sqrt_value}")
 ```
 
 ## Output:
-![Screenshot 2024-03-23 091525](https://github.com/NITHIYANANDAN278/Square-root-of-a-number/assets/121784636/556922bc-a91b-4446-ac08-da8de7ae2913)
+![image](https://github.com/NITHIYANANDAN278/Square-root-of-a-number/assets/121784636/c6241c4f-77ee-4544-ba17-a049fe9af547)
 
 
 
